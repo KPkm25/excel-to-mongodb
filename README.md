@@ -39,16 +39,12 @@ To view the uploaded data, check your MongoDB database with the specified dbName
 ## Dependencies
 ```
 Express: Web framework for Node.js.
-```
-```
+
 Multer: Middleware for handling multipart/form-data, primarily used for file uploads.
-```
-```
+
 XLSX: Library for reading Excel files.
-```
-```
+
 MongoDB: Official MongoDB driver for Node.js.
-```
-```
+
 dotenv: Module for loading environment variables from a .env file.
 ```
